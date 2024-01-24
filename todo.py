@@ -58,8 +58,6 @@ def mark_completed():
         print("To-Do List file not found. Please add tasks first.")
 
 
-def delete_all_task():
-    pass
 
 
 def display_menu():
